@@ -1,6 +1,8 @@
 # ShiftMaster
 A shift management web app for personal assistance services
+
 Purpose & context
+
 Genie is building ShiftCare (also referred to as Budgetassistenz), a React-based shift management web application for ambulatory/24-hour care scheduling under German law (SGB IX personal budget system). The app is a single-file JSX application with no build step, using localStorage as its primary data store and inline CSS as JS strings.
 Core domain requirements include:
 
